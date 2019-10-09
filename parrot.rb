@@ -7,4 +7,4 @@ def parrot(string = "Squawk!")
  return string
   end
 
-  parrot
+  parrot("yo")
